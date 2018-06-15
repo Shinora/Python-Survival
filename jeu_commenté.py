@@ -4,7 +4,6 @@
 '''
 
 
-Jeu De Maxime et Simon !
 
 
 Amusez-vous !
