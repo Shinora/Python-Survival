@@ -6,7 +6,7 @@ It's not clean at all because i am still doing tests on it.
 I started python about one week before doing this game.
 
 
-WARNING : Pygame have to be installe don your PC to run this game.
+WARNING : Pygame have to be installed on your PC to run this game.
 
 
 Hope you will enjoy it.
