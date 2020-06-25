@@ -16,7 +16,7 @@ I started python about one week before doing this game.
 to install pygame : 
 
     'pip install pygame' 
-   or
+    or
     'python -m pip install pygame'
      
  
