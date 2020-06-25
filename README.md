@@ -7,8 +7,8 @@ I started python about one week before doing this game.
 
 # Requirements 
 
-]python 3.5 must be installed 
-]pygame must be installed 
+    python 3.5 must be installed 
+    pygame must be installed 
 
 
 # Help 
